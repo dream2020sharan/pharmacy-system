@@ -2,13 +2,13 @@
 "MedCiti"– The pharmacy management system  is a pharmacy's Use only application which enables the users to manage and maintain internal systems and operations.
 
 ##TECHNOLOGIES AND LANGUAGES USED
-1.HTML
-2.CSS
-3.JAVA
-4.JAVASCRIPT
-5.MYSQL
-6.REST API
-7.VISULA STUDIO CODE
+##.HTML
+##CSS
+##.JAVA
+##.JAVASCRIPT
+##.MYSQL
+##REST API
+##VISULA STUDIO CODE
 
 
 ##How It Works
